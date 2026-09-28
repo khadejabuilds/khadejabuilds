@@ -1,22 +1,50 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=005f73&height=150&section=header&text=khadejalabs&fontSize=70&animation=fadeIn" />
 
-  ### 🔬 Deciphering Data. 🧬 Engineering Health. 📱 Building Solutions.
-  
-  *Bridging the gap between high-dimensional genomic data and scalable software architecture.*
+  ### 🧩 Thinking in Systems. 🔭 Exploring the Disciplines of AI/ML. 🛠️ Building What I Learn.
 
-  [ [LinkedIn](www.linkedin.com/in/khadeja-ahmad) ] [ [Email](mailto:khadejaworks@gmail.com) ]
+  *Every model lives inside a system: data, pipeline, users, feedback. I explore AI/ML one discipline at a time and connect the dots between them.*
+
+  [ [LinkedIn](https://www.linkedin.com/in/khadeja-ahmad) ] [ [Email](mailto:khadejaworks@gmail.com) ]
 
 </div>
 
 ---
 
-### 🧪 Current Lab Projects
-| Project | Status | Tech Stack |
+### 🧠 How I Think
+
+I don't see AI/ML as a pile of separate topics. I see it as a **system of interacting parts**:
+
+```
+   data ──▶ representation ──▶ model ──▶ deployment ──▶ users
+     ▲                                                     │
+     └──────────────── feedback & iteration ◀──────────────┘
+```
+
+Each discipline (NLP, classical ML, retrieval, applied bio-data, mobile) is a different part of that loop. I learn them by **building something small in each**, then asking: *how does this piece change the behavior of the whole system?*
+
+---
+
+### 🗺️ The Disciplines I'm Exploring
+
+| Discipline | The question I'm asking | Where I explored it |
 | :--- | :--- | :--- |
-| **[leukemia-predictor](https://github.com/khadejalabs/leukemia-predictor)** | ✅ Production | `Python` `Docker` `Scikit-Learn` |
-| **[sentiment-analysis-core](https://github.com/khadejalabs/sentiment-analysis)** | 🏗️ In Progress | `NLP` `NLTK` `Flask` |
-| **[flutter-counter-plus](https://github.com/khadejalabs/flutter-counter)** | ✅ Stable | `Dart` `Flutter` `SharedPrefs` |
+| **Machine Learning on Biological Data** | How do you stay reliable on high-dimensional, messy data? | [leukemia-predictor](https://github.com/khadejalabs/leukemia-predictor) |
+| **Natural Language Processing** | How does text become signal? | [sentiment-analysis-core](https://github.com/khadejalabs/sentiment-analysis) |
+| **MLOps & Deployment** | How does a model survive outside a notebook? | Docker-packaged, run with one command |
+| **Applied / Mobile Software** | How do people actually touch what we build? | [flutter-counter-plus](https://github.com/khadejalabs/flutter-counter) |
+| **Retrieval & LLM Systems** | How do we make models reason over real documents? | *Exploring next* |
+| **Automation & Agents** | How do systems act on their own, safely? | *Exploring next* |
+
+---
+
+### 🧪 Lab Projects
+
+| Project | Status | Systems lens | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **[leukemia-predictor](https://github.com/khadejalabs/leukemia-predictor)** | ✅ Production | Data → model → container, end to end | `Python` `Docker` `Scikit-Learn` |
+| **[sentiment-analysis-core](https://github.com/khadejalabs/sentiment-analysis)** | 🏗️ In Progress | Text pipeline served through an API | `NLP` `NLTK` `Flask` |
+| **[flutter-counter-plus](https://github.com/khadejalabs/flutter-counter)** | ✅ Stable | State and persistence on the user's device | `Dart` `Flutter` `SharedPrefs` |
 
 ---
 
@@ -31,7 +59,16 @@
 
 ---
 
-### 📈 Lab Activity & Insights
+### 🔁 Principles I Build By
+
+- **Start from the whole.** Map the system before tuning any one part.
+- **Small experiments, real feedback.** One project per discipline beats ten tutorials.
+- **Make it runnable.** If someone can't run it in a few commands, it isn't finished.
+- **Document the reasoning,** not just the result.
+
+---
+
+### 📈 Lab Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadejalabs&theme=tokyonight&hide_border=true" alt="khadejalabs Streak Stats" />
@@ -39,8 +76,8 @@
 
 ---
 
-### 🧬 The "khadejalabs" Mission
-I focus on the **entire ML lifecycle**: from cleaning messy biological datasets (like the Golub Leukemia set) to deploying containerized models that anyone can run with a single Docker command. Whether it's **Bioinformatics** or **Natural Language Processing**, my goal is to build tools that are as robust as they are insightful.
+### 🧭 The "khadejalabs" Mission
+To understand AI/ML as a connected system, not a set of silos, by exploring each discipline hands-on and building tools that are **robust, reproducible, and insightful**. Bioinformatics is one of the domains I care about most, but the goal is wider: learn how the parts fit together.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=005f73&height=100&section=footer" />
