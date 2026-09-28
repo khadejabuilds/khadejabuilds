@@ -51,5 +51,5 @@ retrieval · multimodal models · mlops · automation & agents · eventually bio
 ---
 
 <div align="center">
-<sub>still learning. still building. 🖤</sub>
+<sub>still learning. still building. 🌊</sub>
 </div>
