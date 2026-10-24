@@ -1,15 +1,8 @@
 <div align="center">
 
-# kai
-
-*my little ai/ml workshop.*
-*i break things, find out why, then build it better.*
-
 [linkedin](https://www.linkedin.com/in/khadeja-ahmad) · [email](mailto:khadejaworks@gmail.com)
 
 </div>
-
----
 
 ## the vibe
 
